@@ -1,0 +1,35 @@
+/*
+ * File: style.css
+ * File Created: Friday, 30th October 2020 3:55:07 pm
+ * Author: Oscar Lin (oscar@des13.com)
+ * Copyright (c) 2020 esangtek
+ */
+
+.sidebar #menu>li>a+.dropdown-menu .dropdown-submenu:hover li a:not(:hover)+.dropdown-menu,
+#sidebar #menu>li>a+.dropdown-menu .dropdown-submenu:hover li a:not(:hover)+.dropdown-menu,
+.sidebar #vm-menu>li>a+.dropdown-menu .dropdown-submenu:hover li a:not(:hover)+.dropdown-menu,
+#sidebar #vm-menu>li>a+.dropdown-menu .dropdown-submenu:hover li a:not(:hover)+.dropdown-menu,
+.sidebar #ja-builder-menu>li>a+.dropdown-menu .dropdown-submenu:hover li a:not(:hover)+.dropdown-menu,
+#sidebar #ja-builder-menu>li>a+.dropdown-menu .dropdown-submenu:hover li a:not(:hover)+.dropdown-menu {
+    display: none;
+}
+
+ul.dropdown-menu.scroll-menu:hover {
+    display: block !important;
+}
+
+#menu>li>ul>li:nth-last-child(1) ul,
+#menu>li>ul>li:nth-last-child(2) ul,
+#menu>li>ul>li:nth-last-child(3) ul,
+#menu>li>ul>li:nth-last-child(4) ul {
+    bottom: 0;
+    top: auto;
+}
+
+#container_oc #column-left {
+    display: none;
+}
+
+#container_oc #content_oc {
+    margin-left: auto;
+}
