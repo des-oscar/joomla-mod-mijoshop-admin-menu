@@ -1,11 +1,14 @@
 <?php
 
-/*
- * File: generateHtmlStructureHelper.php
- * File Created: Friday, 30th October 2020 6:07:22 pm
- * Author: Oscar Lin (oscar@des13.com)
- * Copyright (c) 2020 esangtek
+/**
+ * @title        Mijoshop Admin Menu
+ * @copyright   	Copyright (C) 2020 Esangtek, All rights reserved.
+ * @license      GNU General Public License version 3 or later.
+ * @author url   https://des13.com/
+ * @developers   Oscar Lin
  */
+
+defined('_JEXEC') or die;
 
 require_once JPATH_ROOT . '/components/com_mijoshop/opencart/admin/controller/common/column_left.php';
 

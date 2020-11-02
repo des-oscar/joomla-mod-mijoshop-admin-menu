@@ -1,10 +1,11 @@
 <?php
 
-/*
- * File: mod_mijoshop_admin_menu.php
- * File Created: Thursday, 29th October 2020 1:10:34 pm
- * Author: Oscar Lin (oscar@des13.com)
- * Copyright (c) 2020 esangtek
+/**
+ * @title        Mijoshop Admin Menu
+ * @copyright   	Copyright (C) 2020 Esangtek, All rights reserved.
+ * @license      GNU General Public License version 3 or later.
+ * @author url   https://des13.com/
+ * @developers   Oscar Lin
  */
 
 defined('_JEXEC') or die;
