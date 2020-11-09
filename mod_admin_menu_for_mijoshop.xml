@@ -1,6 +1,6 @@
 <?xml version="0.1.0" encoding="utf-8"?>
 <extension type="module" version="3.1" client="administrator" method="upgrade">
-    <name>MijoShop Admin Menu</name>
+    <name>Admin Menu for MijoShop</name>
     <author>Oscar Lin</author>
     <creationDate>November 2020</creationDate>
     <copyright>Copyright (C) 2020 esangtek</copyright>
@@ -10,11 +10,11 @@
     <version>0.1.0</version>
     <description>Module for MijoShop Administrator Menu</description>
     <files>
-        <filename module="mod_mijoshop_admin_menu">mod_mijoshop_admin_menu.php</filename>
+        <filename module="mod_admin_menu_for_mijoshop">mod_admin_menu_for_mijoshop.php</filename>
     </files>
     <updateservers>
-        <server type="extension" priority="2" name="MijoShop Admin Menu">
-            https://raw.githubusercontent.com/des-oscar/joomla-mod-mijoshop-admin-menu/main/updates.xml
+        <server type="extension" priority="2" name="Admin Menu for MijoShop">
+            https://raw.githubusercontent.com/des-oscar/mod_admin_menu_for_mijoshop/main/updates.xml
         </server>
     </updateservers>
 </extension>

@@ -1,7 +1,7 @@
 <?php
 
 /**
- * @title        Mijoshop Admin Menu
+ * @title        Admin Menu for MijoShop
  * @copyright    Copyright (C) 2020 Esangtek, All rights reserved.
  * @license      GNU General Public License version 3 or later.
  * @author url   https://des13.com/

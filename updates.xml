@@ -1,15 +1,15 @@
 <updates>
     <update>
-        <name>MijoShop Admin Menu</name>
+        <name>Admin Menu for MijoShop</name>
         <description></description>
-        <element>mod_mijoshop_admin_menu</element>
+        <element>mod_admin_menu_for_mijoshop</element>
         <type>module</type>
         <version>1.0.0</version>
         <client>0</client>
-        <infourl title="MijoShop Admin Menu" />
+        <infourl title="Admin Menu for MijoShop" />
         <downloads>
             <downloadurl type="full" format="zip">
-                https://github.com/des-oscar/mod_mijoshop_admin_menu/archive/v1.0.0.zip
+                https://github.com/des-oscar/mod_admin_menu_for_mijoshop/archive/v1.0.0.zip
             </downloadurl>
         </downloads>
         <tags>

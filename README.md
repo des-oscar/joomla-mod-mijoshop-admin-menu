@@ -1,6 +1,6 @@
-# mod_mijoshop_admin_menu
+# mod_admin_menu_for_mijoshop
 
-MijoShop Admin Menu.
+Admin Menu for MijoShop.
 
 Access MijoShop on administrator page easily.
 
