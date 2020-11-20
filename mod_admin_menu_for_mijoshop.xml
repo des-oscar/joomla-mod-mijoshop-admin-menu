@@ -1,4 +1,4 @@
-<?xml version="0.1.0" encoding="utf-8"?>
+<?xml version="1.0.0" encoding="utf-8"?>
 <extension type="module" version="3.1" client="administrator" method="upgrade">
     <name>Admin Menu for MijoShop</name>
     <author>Oscar Lin</author>
@@ -7,7 +7,7 @@
     <license>GNU General Public License</license>
     <authorEmail>oscar@des13.com</authorEmail>
     <authorUrl>des13.com</authorUrl>
-    <version>0.1.0</version>
+    <version>1.0.0</version>
     <description>Module for MijoShop Administrator Menu</description>
     <files>
         <filename module="mod_admin_menu_for_mijoshop">mod_admin_menu_for_mijoshop.php</filename>
