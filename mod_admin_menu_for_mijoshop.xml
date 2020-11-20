@@ -10,6 +10,9 @@
     <version>1.0.0</version>
     <description>Module for MijoShop Administrator Menu</description>
     <files>
+        <folder>css</folder>
+        <filename>css/style.css</filename>
+        <filename>generateHtmlStructureHelper.php</filename>
         <filename module="mod_admin_menu_for_mijoshop">mod_admin_menu_for_mijoshop.php</filename>
     </files>
     <updateservers>
